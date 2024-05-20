@@ -4,7 +4,7 @@ O desafio consiste em criar um relatório criativo usando a sample financial do 
 
 O relatório iterativo, de duas páginas, foi criado utilizando o layout, gráficos (visuais) e botões sugeridos pelo desafio;
 
-Na segunda página foi sugerido a utlização de visuais personalizados (ChicletSlicer e Radar Chart);
+Na segunda página foi sugerido a utilização de visuais personalizados (ChicletSlicer e Radar Chart);
 
 O relatório foi publicado no Power BI Service conforme imagem abaixo:
 
