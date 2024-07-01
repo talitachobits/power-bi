@@ -12,6 +12,6 @@ O relatório foi publicado no Power BI Service conforme imagem abaixo:
 
 ![Relatório Publicado](https://github.com/talitachobits/power-bi/blob/main/Sample%20Financial/service.png)
 
-## Exportando o Relatório no formato PDF
+## Exportando o Relatório no formato PDF e PPTX
 
 No power BI Service o relatório foi exportando no formato [PDF](https://github.com/talitachobits/power-bi/blob/main/Sample%20Financial/sample_financial.pdf) e [PPTX - Apresentação Power Point](https://github.com/talitachobits/power-bi/blob/main/Sample%20Financial/sample_financial.pbix)
