@@ -12,7 +12,7 @@ CREATE TABLE employee(
     Salary decimal(10,2),
     Super_ssn char(9),
     Dno int not null default 1,
-    constraint pk_employee primary key (Ssn)
+    constraint pk_employee primary key (Ssn),
     constraint fk_employee_manager foreign key(Super_ssn) references employee(Ssn)
     on delete set null
     on update cascade
